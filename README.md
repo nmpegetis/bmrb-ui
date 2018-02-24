@@ -6,4 +6,5 @@ Providing bmrb with a new ui
 - cd bmrb
 - yarn
 - npm start
+- npm build
 - npm test
