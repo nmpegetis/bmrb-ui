@@ -7,3 +7,4 @@ Providing bmrb with a new ui
 - yarn
 - npm start
 - npm build
+- npm test
